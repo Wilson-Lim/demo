@@ -12,6 +12,10 @@
     "name": "typicode"
   },
   "users" : [
-  
+	{	
+		"id": 30,
+		"name" : "wilson",
+		"age": 99
+	}
   ]
 }
